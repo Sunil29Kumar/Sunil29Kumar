@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on: [DevSync (project management app)](https://github.com/Sunil29Kumar/Project-Management-App.git)  
-- 🌱 Learning now:  `TypeScript`, and `NEXT.js`  
+- 🌱 Learning now:  `CI/CD pipeline`  
 - 💬 Ask me about: **Frontend, Backend, and Full Stack Project Development**  
 - 📫 Reach me at: **sunil.kksdk@gmail.com**  
 
